@@ -1,6 +1,6 @@
 For the Module 1.2 Assignment, you will open up your command line and complete the following:
 
-- [ ] Create a directory using the command `mkdir`
+- [ ] Create a MyModluleLessons directory using the command `mkdir`
 - [ ] In the directory you created initialize Git using `git init`
 - [ ] Create a README.md file in your directory using the `touch` command
 - [ ] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
